@@ -1,0 +1,81 @@
+Signor
+John Doe
+Bahnhofstrasse 123
+8001 Zurich
+Switzerland
+Transazione Registrazione Descrizione Accredito CHF Addebito CHF
+23.09.2023 24.09.2023 Merchant A Location A CHE 95.10
+22.09.2023 24.09.2023 Merchant B Location B CHE 101.55
+24.09.2023 25.09.2023 Merchant C Location C CHE 2.40
+24.09.2023 25.09.2023 Merchant D Location D CHE 7.30
+25.09.2023 26.09.2023 Merchant C Location C CHE 2.40
+25.09.2023 26.09.2023 Merchant E Location E CHE 8.00
+26.09.2023 27.09.2023 Merchant F Location F CHE 5.70
+27.09.2023 28.09.2023 Merchant C Location C CHE 35.00
+28.09.2023 29.09.2023 Merchant H Location H CHE 6.90
+28.09.2023 29.09.2023 Merchant H Location H CHE 13.65
+28.09.2023 29.09.2023 Merchant E Location E CHE 4.40
+14,60 EUR FX00.97620615
+Carta supplementare Certo! One Mastercard termina con XXXX XXXX XXXX 1234 JANE SMITH
+Transazione Registrazione Descrizione Accredito CHF Addebito CHF
+23.09.2023 24.09.2023 Merchant A Location A CHE 187.90
+22.09.2023 25.09.2023 Merchant B Location B FRA 105.06
+Numero del conto: 123456789
+Data di fatturazione 23.10.2023
+Pagabile entro 12.11.2023John Doe
+Bahnhofstrasse 123
+8001 Zurich
+Switzerland
+Dettagli della fattura
+Per delle transazioni in valuta estera, l'importo fatturato in CHF comprende una tassa amministrativa del 1.5%. FX significa corso
+del cambio in valuta estera.
+Seguito
+Pagina 2/5c
+Transazione Registrazione Descrizione Accredito CHF Addebito CHF
+104,89 EUR FX00.98684178
+28.09.2023 29.09.2023 Merchant A Location A CHE 36.40
+28.09.2023 29.09.2023 Merchant B, Location B CHE 10.30
+28.09.2023 29.09.2023 Merchant C Location C CHE 61.30
+29.09.2023 30.09.2023 Merchant A Location A CHE 19.75
+03.10.2023 04.10.2023 Merchant A Location A CHE 34.15
+05.10.2023 06.10.2023 Merchant D Location D CHE 54.50
+07.10.2023 08.10.2023 Merchant E Location E CHE 78.50
+07.10.2023 08.10.2023 Merchant F Location F CHE 81.20
+14.10.2023 17.10.2023 Merchant G Location G CHE 42.50
+Varie
+Registrazione Descrizione Accredito CHF Addebito CHF
+23.10.2023 Correzione dell'importo arrotondato 0.01
+Saldo a nostro favore in data 23.10.2023 CHF 1'234.05
+Pagabile entro 12.11.2023John Doe
+Bahnhofstrasse 123
+8001 Zurich
+Switzerland
+Dettagli della fattura
+Per delle transazioni in valuta estera, l'importo fatturato in CHF comprende una tassa amministrativa del 1.5%. FX significa corso
+del cambio in valuta estera.
+Pagina 3/5
+Data di fatturazione 23.10.2023
+Pagabile entro 12.11.2023John Doe
+Bahnhofstrasse 123
+8001 Zurich
+Switzerland
+Risparmi accumulati con la sua
+Certo! One Mastercard® World
+Risparmi nel periodo di fatturazione corrente
+Risparmio totale quest’anno CHF 12.34
+Rivenditore Rimborso % CHF
+Migros  1.00% 4.96
+Coop  1.00% 1.90
+FFS  1.00% 1.70
+Altri acquisti  0.33% 12.01
+La preghiamo di notare che per i versamenti allo sportello postale viene riscossa una tassa pari a CHF 2.50.
+I versamenti effettuati tramite bonifico bancario, E-finance o LSV/Debit Direct sono gratuiti.
+Ulteriori informazioni relative alle CGC e spese sono disponibili su cembra.ch/cgc.
+Numero del conto: 123456789
+Data di fatturazione 23.10.2023
+Pagabile da
+John Doe
+Bahnhofstrasse 123
+8001 Zurich
+Switzerland
+Valuta Importo

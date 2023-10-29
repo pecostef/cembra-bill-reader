@@ -1,0 +1,9 @@
+from cembrabillreader.consoleview import ConsoleView
+from cembrabillreader.domain.repository import CembraBillRepository
+from cembrabillreader.domain.usecases import CalculateTotalByCard
+from cembrabillreader.repository.pdfbillrepository import PdfCembraBillRepository
+
+
+cembra_bill_repository: CembraBillRepository = PdfCembraBillRepository()
+calculate_total_by_card = CalculateTotalByCard(bill_repository=cembra_bill_repository)
+console_view = ConsoleView()
