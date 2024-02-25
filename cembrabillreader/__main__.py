@@ -1,7 +1,8 @@
 """Cembra Bill Reader entry point script."""
 # cembrabillreader/__main__.py
 import logging
-from cembrabillreader import cli, __app_name__
+from cembrabillreader import __app_name__
+from cembrabillreader.presentation import cli
 
 log_level = logging.INFO  # logging.DEBUG
 

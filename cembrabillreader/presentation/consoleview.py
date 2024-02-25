@@ -3,10 +3,13 @@ from rich.table import Table
 
 from cembrabillreader.domain.entities import CalculateTotalByCardResult
 
-console = Console()
-
 
 class ConsoleView:
+    _console: Console
+
+    def __init__(self, console=Console()) -> None:
+        self._console = console
+
     def display_total_by_card(self, total: CalculateTotalByCardResult):
         table = Table("Holder", "Total")
         table.add_row(total.principal_card.card_holder, str(total.principal_card.total))
@@ -14,4 +17,4 @@ class ConsoleView:
             table.add_row(
                 total.additional_card.card_holder, str(total.additional_card.total)
             )
-        console.print(table)
+        self._console.print(table)

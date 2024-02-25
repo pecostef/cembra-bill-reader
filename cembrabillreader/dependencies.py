@@ -1,4 +1,4 @@
-from cembrabillreader.consoleview import ConsoleView
+from cembrabillreader.presentation.consoleview import ConsoleView
 from cembrabillreader.domain.repository import CembraBillRepository
 from cembrabillreader.domain.usecases import CalculateTotalByCard
 from cembrabillreader.repository.pdfbillrepository import PdfCembraBillRepository
